@@ -1,3 +1,3 @@
 ## About 
-- This folder represents our finalised design verilog code 
+ This folder represents our finalised design verilog codes.
 
