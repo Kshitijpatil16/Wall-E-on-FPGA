@@ -1,4 +1,6 @@
-## Wall-E-on-FPGA (Project introduction)
+## Wall-E-on-FPGA 
+
+![Black Glitch VHS Tech Gadget Youtube Thumbnail](https://user-images.githubusercontent.com/104309685/195961998-82c83786-edf8-45c4-a5b6-4632022b7348.png)
 This project aims to build Wall-E bot but instead of esp32, we will be using FPGA as the brain of bot. Final goal of this project is to demonstrate line following and self balancing by integrating LSA and MPU with FPGA.
 
   
